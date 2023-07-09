@@ -1,0 +1,874 @@
+{
+    "items": [
+        {
+            "name": "Visual Studio Code",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/visual-studio-code.ico",
+            "download": "https://emupedia.net/emupedia-app-vscode/",
+            "type": "link"
+        },
+        {
+            "name": "Sandbox",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/sandbox.ico",
+            "download": "https://emupedia.net/emupedia-app-sandbox/?repo=Emupedia/emupedia-app-sandbox/contents/examples?ref=master&baseurl=/emupedia-app-romcenter/&capsule=%3Cbody%3E&capsule=%3C/body%3E",
+            "type": "link"
+        },
+        {
+            "name": "Space Cadet Pinball",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/space-cadet-pinball.ico",
+            "download": "https://emupedia.net/emupedia-game-space-cadet-pinball/",
+            "type": "link"
+        },
+        {
+            "name": "Minesweeper Classic",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/minesweeper.ico",
+            "download": "https://emupedia.net/emupedia-game-minesweeper/",
+            "type": "link"
+        },
+        {
+            "name": "Solitaire Classic",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/solitaire.ico",
+            "download": "https://emupedia.net/emupedia-game-solitaire/",
+            "type": "link"
+        },
+        {
+            "name": "Microsoft Minesweeper",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/microsoft-minesweeper.ico",
+            "download": "https://cdn.zone.msn.com/assets/games/microsoftminesweeper/20200812T131003_1.3.22_milestones_2020_milestone_2020_005_sprint_001_1e48112_msn/default.html?hostingEnvironment=zone",
+            "type": "link"
+        },
+        {
+            "name": "Microsoft Solitaire Collection",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/microsoft-solitaire.ico",
+            "download": "https://cdn.zone.msn.com/assets/games/microsoftsolitairecollection/2021/20210129T112048_1.8.8_release_7e1cce9_msn/solitaire/index.html?hostingEnvironment=zone",
+            "type": "link"
+        },
+        {
+            "name": "Microsoft Mahjong",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/microsoft-mahjong.ico",
+            "download": "https://cdn.zone.msn.com/assets/games/microsoftmahjong/2020/20201102T1148_1.0.10_msn/game.html?hostingEnvironment=zone",
+            "type": "link"
+        },
+        {
+            "name": "Microsoft Ultimate Word Games",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/microsoft-ultimate-word-games.ico",
+            "download": "https://cdn.zone.msn.com/assets/games/microsoftultimatewordgames/msn/2021/20210310T195233_1.1.7_release_1af5876_msn/word-games/game.html?hostingEnvironment=zone",
+            "type": "link"
+        },
+        {
+            "name": "Microsoft Bubble",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/microsoft-bubble.ico",
+            "download": "https://cdn.zone.msn.com/assets/games/microsoftbubbleshooter/20210125T150916.534Z_1_c01b8274_V2.2.1/msngdk_simulator/testgame/index.html?gdk=true&hostingEnvironment=zone",
+            "type": "link"
+        },
+        {
+            "name": "Microsoft Jewel",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/microsoft-jewel.ico",
+            "download": "https://cdn.zone.msn.com/assets/games/microsoftjewel/20200921T100924_1.0.22_milestones_2020_milestone_2020_001_sprint_001_62951b5_msn/default.html?hostingEnvironment=zone",
+            "type": "link"
+        },
+        {
+            "name": "Microsoft Sudoku",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/microsoft-sudoku.ico",
+            "download": "https://cdn.zone.msn.com/assets/games/microsoftsudoku/20200821T185824_1.3.33_milestones_2020_milestone_2020_013_sprint_003_d2570bc_msn/default.html?hostingEnvironment=zone",
+            "type": "link"
+        },
+        {
+            "name": "Microsoft Jigsaw",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/microsoft-jigsaw.ico",
+            "download": "https://cdn.zone.msn.com/assets/games/microsoftjigsaw/20200812T130936_1.3.37_milestones_2020_milestone_2020_004_sprint_001_b90aedf_msn/default.html?hostingEnvironment=zone",
+            "type": "link"
+        },
+        {
+            "name": "Friday Night Funkin'",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/friday-night-funkin.ico",
+            "download": "https://emupedia.net/emupedia-game-friday-night-funkin/",
+            "type": "link"
+        },
+        {
+            "name": "2048",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/2048.ico",
+            "download": "https://emupedia.net/emupedia-game-2048/",
+            "type": "link"
+        },
+        {
+            "name": "Cookie Clicker",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/cookie-clicker.ico",
+            "download": "https://emupedia.net/emupedia-game-cookie-clicker/",
+            "type": "link"
+        },
+        {
+            "name": "Flappy Bird",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/flappy-bird.ico",
+            "download": "https://emupedia.net/emupedia-game-flappy-bird/",
+            "type": "link"
+        },
+        {
+            "name": "Cut the Rope",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/cut-the-rope.ico",
+            "download": "https://emupedia.net/emupedia-game-cut-the-rope/",
+            "type": "link"
+        },
+        {
+            "name": "Cut the Rope: Holiday Gift",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/cut-the-rope-holiday-gift.ico",
+            "download": "https://emupedia.net/emupedia-game-cut-the-rope-holiday-gift/",
+            "type": "link"
+        },
+        {
+            "name": "Cut the Rope: Time Travel",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/cut-the-rope-time-travel.ico",
+            "download": "https://emupedia.net/emupedia-game-cut-the-rope-time-travel/",
+            "type": "link"
+        },
+        {
+            "name": "Cut the Rope HD",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/cut-the-rope-hd.ico",
+            "download": "https://emupedia.net/emupedia-game-cut-the-rope-hd/",
+            "type": "link"
+        },
+        {
+            "name": "Cut the Rope Mobile Version",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/cut-the-rope.ico",
+            "download": "https://emupedia.net/emupedia-game-cut-the-rope/wasm/",
+            "type": "link"
+        },
+        {
+            "name": "Cut the Rope: Experiments Mobile Version",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/cut-the-rope-experiments.ico",
+            "download": "https://emupedia.net/emupedia-game-cut-the-rope-experiments/",
+            "type": "link"
+        },
+        {
+            "name": "Cut the Rope 2 Mobile Version",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/cut-the-rope2.ico",
+            "download": "https://emupedia.net/emupedia-game-cut-the-rope2/",
+            "type": "link"
+        },
+        {
+            "name": "Cut the Rope: Magic Mobile Version",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/cut-the-rope-magic.ico",
+            "download": "https://emupedia.net/emupedia-game-cut-the-rope-magic/",
+            "type": "link"
+        },
+        {
+            "name": "Pudding Monsters Mobile Version",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/pudding-monsters.ico",
+            "download": "https://emupedia.net/emupedia-game-pudding-monsters/",
+            "type": "link"
+        },
+        {
+            "name": "Temple Run 2",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/temple-run2.ico",
+            "download": "https://emupedia.net/emupedia-game-temple-run2/",
+            "type": "link"
+        },
+        {
+            "name": "Fruit Ninja",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/fruit-ninja.ico",
+            "download": "https://emupedia.net/emupedia-game-fruit-ninja/",
+            "type": "link"
+        },
+        {
+            "name": "Jetpack Joyride",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/jetpack-joyride.ico",
+            "download": "https://emupedia.net/emupedia-game-jetpack-joyride/",
+            "type": "link"
+        },
+        {
+            "name": "Geometry Dash",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/geometry-dash.ico",
+            "download": "https://emupedia.net/emupedia-game-geometry-dash/",
+            "type": "link"
+        },
+        {
+            "name": "agar.io",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/agar.io.ico",
+            "download": "https://emupedia.net/emupedia-game-agar.io/",
+            "type": "link"
+        },
+        {
+            "name": "agar.io v2.0",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/agar.io.ico",
+            "download": "https://emupedia.net/emupedia-game-agar.io/cigar2/",
+            "type": "link"
+        },
+        {
+            "name": "lennar.icu",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/lennar.ico",
+            "download": "https://lennar.icu/",
+            "type": "link"
+        },
+        {
+            "name": "diep.io",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/diep.io.ico",
+            "download": "https://emupedia.net/emupedia-game-diep.io/",
+            "type": "link"
+        },
+        {
+            "name": "florr.io",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/florr.io.ico",
+            "download": "https://static.florr.io/old/",
+            "type": "link"
+        },
+        {
+            "name": "florr.io v2.0",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/florr.io.ico",
+            "download": "https://florr.io/",
+            "type": "link"
+        },
+        {
+            "name": "skribbl.io",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/skribbl.io.ico",
+            "download": "https://skribbl.io/",
+            "type": "link"
+        },
+        {
+            "name": "Raptor: Call of the Shadows",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/raptor.ico",
+            "download": "https://emupedia.net/emupedia-game-raptor/",
+            "type": "link"
+        },
+        {
+            "name": "NVolley",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/nvolley.ico",
+            "download": "https://cojmar.github.io/nvolley/",
+            "type": "link"
+        },
+        {
+            "name": "Pikachu Volleyball",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/pikachu-volleyball.ico",
+            "download": "https://emupedia.net/emupedia-game-pikachu-volleyball/",
+            "type": "link"
+        },
+        {
+            "name": "Wings 2.0",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/wings2.ico",
+            "download": "https://emupedia.net/emupedia-game-wings2/",
+            "type": "link"
+        },
+        {
+            "name": "Worms Armageddon",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/worms2.ico",
+            "download": "https://emupedia.net/emupedia-game-worms2/armageddon/",
+            "type": "link"
+        },
+        {
+            "name": "Biolab Disaster",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/biolab-disaster.ico",
+            "download": "https://emupedia.net/emupedia-game-biolab-disaster/",
+            "type": "link"
+        },
+        {
+            "name": "Super Blob Blaster",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/super-blob-blaster.ico",
+            "download": "https://emupedia.net/emupedia-game-super-blob-blaster/",
+            "type": "link"
+        },
+        {
+            "name": "Pac-Man",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/pac-man.ico",
+            "download": "https://pacman-e281c.firebaseapp.com/",
+            "type": "link"
+        },
+        {
+            "name": "PONG",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/pong.ico",
+            "download": "https://turbowarp.org/embed.html?autoplay#444984831",
+            "type": "link"
+        },
+        {
+            "name": "Tetris",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/tetris.ico",
+            "download": "https://turbowarp.org/embed.html?autoplay#31651654",
+            "type": "link"
+        },
+        {
+            "name": "SkiFree",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/skifree.ico",
+            "download": "https://emupedia.net/emupedia-game-skifree/",
+            "type": "link"
+        },
+        {
+            "name": "Yume Nikki",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/yume-nikki.ico",
+            "download": "https://emupedia.net/emupedia-game-yume-nikki/",
+            "type": "link"
+        },
+        {
+            "name": "ASCIICKER",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/asciicker.ico",
+            "download": "https://asciicker.com/",
+            "type": "link"
+        },
+        {
+            "name": "ASCII PATROL",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/ascii-patrol.ico",
+            "download": "https://ascii-patrol.com/area54/ascii-patrol-html5.html",
+            "type": "link"
+        },
+        {
+            "name": "Mario",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/mario.ico",
+            "download": "https://emupedia.net/emupedia-game-mario/",
+            "type": "link"
+        },
+        {
+            "name": "Zelda",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/zelda.ico",
+            "download": "https://emupedia.net/emupedia-game-zelda/",
+            "type": "link"
+        },
+        {
+            "name": "3D Spatial Audio",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/joystick.ico",
+            "download": "https://emupedia.net/emupedia-demo-3d-spatial-audio/",
+            "type": "link"
+        },
+        {
+            "name": "Voxel Space",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/joystick.ico",
+            "download": "https://emupedia.net/emupedia-demo-voxel-space/",
+            "type": "link"
+        },
+        {
+            "name": "8-bit Palette Color Cycling",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/8-bit-palette-color-cycling.ico",
+            "download": "https://emupedia.net/emupedia-app-8-bit-palette-color-cycling/",
+            "type": "link"
+        },
+        {
+            "name": "RomCenter",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/romcenter.ico",
+            "download": "https://emupedia.net/emupedia-app-romcenter/",
+            "type": "link"
+        },
+        {
+            "name": "DOSBox",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/dosbox.ico",
+            "download": "https://emupedia.net/emupedia-app-dosbox/",
+            "type": "link"
+        },
+        {
+            "name": "Street Fighter Alpha",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/street-fighter/akuma,assets/images/icons/desktop/street-fighter/balrog,assets/images/icons/desktop/street-fighter/blanka,assets/images/icons/desktop/street-fighter/chunli,assets/images/icons/desktop/street-fighter/dhalsim,assets/images/icons/desktop/street-fighter/evilryu,assets/images/icons/desktop/street-fighter/ken,assets/images/icons/desktop/street-fighter/makoto,assets/images/icons/desktop/street-fighter/ryu,assets/images/icons/desktop/street-fighter/sagat,assets/images/icons/desktop/street-fighter/sakura,assets/images/icons/desktop/street-fighter/zangief.ico",
+            "download": "https://emupedia.net/emupedia-game-street-fighter-alpha/",
+            "type": "link"
+        },
+        {
+            "name": "Lemmings 1",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/lemmings1.ico",
+            "download": "https://emupedia.net/emupedia-game-lemmings1/",
+            "type": "link"
+        },
+        {
+            "name": "Prince Of Persia 1",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/prince-of-persia1.ico",
+            "download": "https://emupedia.net/emupedia-game-prince/",
+            "type": "link"
+        },
+        {
+            "name": "Wolfenstein 3D",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/wolfenstein-3d.ico",
+            "download": "https://emupedia.net/emupedia-game-wolfenstein-3d/",
+            "type": "link"
+        },
+        {
+            "name": "Doom 1",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/doom1.ico",
+            "download": "https://emupedia.net/emupedia-game-doom1/asmjs/",
+            "type": "link"
+        },
+        {
+            "name": "Doom 2: Hell on Earth",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/doom2.ico",
+            "download": "https://emupedia.net/emupedia-game-doom2/asmjs/",
+            "type": "link"
+        },
+        {
+            "name": "Doom 3",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/doom3.ico",
+            "download": "https://emupedia.net/emupedia-game-doom3/",
+            "type": "link"
+        },
+        {
+            "name": "Quake 1",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/quake1.ico",
+            "download": "https://emupedia.net/emupedia-game-quake1/",
+            "type": "link"
+        },
+        {
+            "name": "Quake 2",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/quake2.ico",
+            "download": "https://emupedia.net/emupedia-game-quake2/",
+            "type": "link"
+        },
+        {
+            "name": "Quake 3 Arena",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/quake3.ico",
+            "download": "https://emupedia.net/emupedia-game-quake3/asmjs/",
+            "type": "link"
+        },
+        {
+            "name": "Hexen 2",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/hexen2.ico",
+            "download": "https://emupedia.net/emupedia-game-hexen2/",
+            "type": "link"
+        },
+        {
+            "name": "Half-Life 1",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/half-life1.ico",
+            "download": "https://emupedia.net/emupedia-game-half-life1/",
+            "type": "link"
+        },
+        {
+            "name": "Diablo 1",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/diablo1.ico",
+            "download": "https://d07riv.github.io/diabloweb/",
+            "type": "link"
+        },
+        {
+            "name": "Dark Reign: The Future of War",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/dark-reign.ico",
+            "download": "https://emupedia.net/emupedia-game-dark-reign/",
+            "type": "link"
+        },
+        {
+            "name": "Command and Conquer",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/command-and-conquer1.ico",
+            "download": "https://emupedia.net/emupedia-game-command-and-conquer1/",
+            "type": "link"
+        },
+        {
+            "name": "Command and Conquer: Red Alert 2",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/red-alert2.ico",
+            "download": "https://emupedia.net/emupedia-game-ra2/",
+            "type": "link"
+        },
+        {
+            "name": "Tomb Raider",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/tomb-raider1.ico",
+            "download": "https://emupedia.net/emupedia-game-tomb-raider/",
+            "type": "link"
+        },
+        {
+            "name": "Transport Tycoon Deluxe",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/openttd.ico",
+            "download": "https://emupedia.net/emupedia-game-openttd/",
+            "type": "link"
+        },
+        {
+            "name": "Dune 2: The Building of A Dynasty",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/dune2.ico",
+            "download": "https://emupedia.net/emupedia-game-dune2/",
+            "type": "link"
+        },
+        {
+            "name": "X-COM: UFO Defense",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/xcom1.ico",
+            "download": "https://emupedia.net/emupedia-game-xcom1/",
+            "type": "link"
+        },
+        {
+            "name": "Unreal Tournament",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/unreal-tournament.ico",
+            "download": "https://emupedia.net/emupedia-game-unreal-tournament/",
+            "type": "link"
+        },
+        {
+            "name": "Minecraft Singleplayer",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/minecraft-classic.ico",
+            "download": "https://emupedia.net/emupedia-game-minecraft-classic/",
+            "type": "link"
+        },
+        {
+            "name": "Winamp",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/winamp-classic.ico",
+            "download": "https://emupedia.net/emupedia-app-winamp/",
+            "type": "link"
+        },
+        {
+            "name": "Notepad",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/notepad.ico",
+            "download": "https://emupedia.net/emupedia-app-notepad/",
+            "type": "link"
+        },
+        {
+            "name": "Paint",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/paint.ico",
+            "download": "https://jspaint.app/",
+            "type": "link"
+        },
+        {
+            "name": "Nsvg",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/svg-editor.ico",
+            "download": "https://cojmar.github.io/nsvg",
+            "type": "link"
+        },
+        {
+            "name": "Photopea",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/photopea.ico",
+            "download": "https://photopea.com/",
+            "type": "link"
+        },
+        {
+            "name": "Fluid Paint",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/fluid-paint.ico",
+            "download": "https://emupedia.net/emupedia-app-fluid-paint/",
+            "type": "link"
+        },
+        {
+            "name": "Happy Tree Friends",
+            "version": 1,
+            "developer": "emupedia.net",
+            "feed": "false",
+            "info": "Advanced game by emupedia.net, Hosted by Mobiz-Advanced-Technologies.",
+            "banner": "https://emupedia.net/beta/emuos/assets/images/icons/desktop/happy-tree-friends.ico",
+            "download": "https://emupedia.net/emupedia-media-htf/",
+            "type": "link"
+        }
+    ]
+}
